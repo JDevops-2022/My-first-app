@@ -1,3 +1,3 @@
-#My App
-This is my first app
-Love it
+#MyApp
+This is my first app..
+I Love it.
